@@ -1,0 +1,6 @@
+#ifndef SMART_POINTER_OPT_OUT_BAR_HPP_
+#define SMART_POINTER_OPT_OUT_BAR_HPP_
+
+int bar(int x);
+
+#endif // SMART_POINTER_OPT_OUT_BAR_HPP_
